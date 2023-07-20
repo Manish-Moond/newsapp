@@ -1,6 +1,6 @@
 # newsapp
 
-##Features
+## Features
   * Lated news articles
   * You can search news articles on topics
       *Like articles and that will be saved to your account
