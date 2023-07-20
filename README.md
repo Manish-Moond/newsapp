@@ -28,5 +28,29 @@
 </p>
 
 
+## Getting started
 
 
+#### 1. [Setup Flutter](https://flutter.io/setup/)
+
+#### 2. Clone the repo
+
+```sh
+$ git clone https://github.com/Manish-git-135/newsapp
+$ cd newsapp/
+```
+
+#### 3. Setup the firebase app
+
+1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
+2. Once your Firebase instance is created, you'll need to enable anonymous authentication.
+
+* Go to the Firebase Console for your new instance.
+* Click "Authentication" in the left-hand menu
+* Click the "sign-in method" tab
+* Click "Google" and enable it
+
+3. Next Use Firebase Cli to setup
+* [Firebase CLI](https://firebase.flutter.dev/docs/cli/?gclid=CjwKCAjwtuOlBhBREiwA7agf1tpl9sE30TUnRWug0TK1kac9cbKn-hdfZJ71CpAvi7KIX6MDBdWK0RoCek0QAvD_BwE&gclsrc=aw.ds)
+
+[Video and Build APK](https://drive.google.com/drive/folders/1dMVwqC5JL7EyAGHdjq0Kgxf8oIZus4Ff?usp=sharing)
