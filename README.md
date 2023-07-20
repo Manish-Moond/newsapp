@@ -7,7 +7,6 @@
   * Got to the saved page and read saved articles
   * Chat with your group
   * Manage your account
-  * Nice 
 
 ## Screenshot
 <p>
