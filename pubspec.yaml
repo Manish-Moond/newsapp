@@ -43,6 +43,7 @@ dependencies:
   firebase_auth: ^4.7.1
   google_sign_in: ^6.1.4
   rive: ^0.7.16
+  socket_io_client: ^1.0.2
 
 dev_dependencies:
   flutter_test:

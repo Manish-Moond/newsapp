@@ -4,4 +4,6 @@ class API {
   static String startDate = "&from=2023-06-19";
   static String sortBy = "&publishedAt";
   static String apiKey = "&apiKey=4ba152dd4aa2433fa5d8a3d02a900bda";
+
+  // static String socketServerURL = "http://localhost:3000";
 }

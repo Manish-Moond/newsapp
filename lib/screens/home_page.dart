@@ -26,6 +26,24 @@ class _HomePageState extends State<HomePage> {
   List<Article> savedArticles = [];
   bool _featched = false;
 
+//   final List<String> topics = [
+//     "All",
+//     "Politic",
+//     "Sports",
+//     "Education",
+//     "Health",
+//     "Farming",
+//     "Oil",
+//     "War",
+//     "Covid",
+//     "Food",
+//     "Space",
+//     "Technology"
+//   ];
+// List<Widget> _myTopics(){
+//   List<Widget>  _t = [];
+//   return _t;
+// }
   void _toggleSearchBarVisibility() {
     setState(() {
       _isSearchBarVisible = !_isSearchBarVisible;
@@ -80,7 +98,7 @@ class _HomePageState extends State<HomePage> {
           backgroundColor: kPrimaryColor,
           title: _isSearchBarVisible
               ? Text(
-                  "News about ${_controller.text}",
+                  "News about: ${_controller.text}",
                   overflow: TextOverflow.ellipsis,
                   style: TextStyle(color: kWhiteColor),
                 )

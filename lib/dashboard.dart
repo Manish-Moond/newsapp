@@ -53,6 +53,8 @@ class _DashBoardState extends State<DashBoard>
     return Scaffold(
       bottomNavigationBar: isMobile(context)
           ? BottomNavigationBar(
+              unselectedItemColor: kGreyColor,
+              selectedItemColor: kPrimaryColor,
               currentIndex: _currentIndex,
               onTap: _onTabTapped,
               items: [
@@ -130,7 +132,10 @@ class _DashBoardState extends State<DashBoard>
                           : FluentIcons.chat_16_regular,
                       color: _currentIndex == 2 ? kPrimaryColor : kGreyColor,
                     ),
-                    label: const Text("Chat"),
+                    label: Text(
+                      "Chat",
+                      style: TextStyle(color: kGreyColor),
+                    ),
                   ),
                   NavigationRailDestination(
                     icon: Icon(

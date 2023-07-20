@@ -36,10 +36,10 @@ class _NewsCardWidgetState extends State<NewsCardWidget> {
       child: Column(
         children: [
           SizedBox(
-            height: 170,
-            width: 300,
+            height: 220,
+            width: 380,
             child: ClipRRect(
-              borderRadius: BorderRadius.circular(8.0),
+              borderRadius: BorderRadius.circular(18.0),
               child: Image.network(
                 widget.news.urlToImage ?? "https://via.placeholder.com/350x150",
                 fit: BoxFit.fill,
