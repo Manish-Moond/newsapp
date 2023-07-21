@@ -1,9 +1,10 @@
 # newsapp
 
 ## Features
-  * Lated news articles
-  * You can search news articles on topics
-      *Like articles and that will be saved to your account
+  * Login and Sign up
+  * Latest news articles
+  * Search news articles on topics
+    * Like articles and that will be saved to your account
   * Got to the saved page and read saved articles
   * Chat with your group
   * Manage your account
