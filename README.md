@@ -9,6 +9,10 @@
   * Chat with your group
   * Manage your account
 
+[Video and Build APK](https://drive.google.com/drive/folders/1dMVwqC5JL7EyAGHdjq0Kgxf8oIZus4Ff?usp=sharing)
+
+[Video Link](https://drive.google.com/file/d/1_l5kl5Hr8cppXHpJ4vJeX_nRct-Fc0fr/view?usp=sharing)
+
 ## Screenshot
 <p>
 <img src="https://github.com/Manish-git-135/newsapp/assets/61883856/c1a11155-9f65-49b9-ba0f-114de47ae4fe" width = "400">
@@ -53,6 +57,4 @@ $ cd newsapp/
 3. Next Use Firebase Cli to setup
 * [Firebase CLI](https://firebase.flutter.dev/docs/cli/?gclid=CjwKCAjwtuOlBhBREiwA7agf1tpl9sE30TUnRWug0TK1kac9cbKn-hdfZJ71CpAvi7KIX6MDBdWK0RoCek0QAvD_BwE&gclsrc=aw.ds)
 
-[Video and Build APK](https://drive.google.com/drive/folders/1dMVwqC5JL7EyAGHdjq0Kgxf8oIZus4Ff?usp=sharing)
-
-[Video Link](https://drive.google.com/file/d/1o35y_xAU0KxB-ahG6S1Y0kkih5AhlTH1/view?usp=sharing)
+  
